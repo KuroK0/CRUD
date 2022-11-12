@@ -1,0 +1,44 @@
+ body {
+  background-color: azure;
+}
+
+h1 {
+  text-align: center;
+}/*
+.inputs {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.texts {
+  width: 260px;
+  height: 130px;
+  margin: 150px auto;
+  text-align: center;
+}
+*/
+input {
+  margin:10px;
+  width: 200px;
+
+  color: black;
+  border: none;
+  background-color: beige;
+  padding: 5px;
+  border-radius: 10px;
+}
+.number1 {
+  margin: 10px;
+}/*
+.create {
+  margin-left: 150px;
+
+  color: black;
+  border: none;
+  padding: 5px;
+  background-color: aqua ;
+  border-radius: 10px;
+
+} */

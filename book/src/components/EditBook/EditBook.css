@@ -1,0 +1,33 @@
+.main-modal {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: grey;
+  }
+  .inner-modal {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 300px;
+    height: 200px;
+    background-color: aliceblue;
+    margin: 150px auto;
+    text-align: center;
+    border: 1px solid black;
+    
+  }
+  .close {
+    display: flex;
+    padding-bottom: 5px;
+  }
+  .btn-save {
+    margin-top: 5px;
+    width: 150px;
+  }
+  .inp-edit {
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+  }
